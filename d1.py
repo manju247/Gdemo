@@ -5,3 +5,4 @@ print(lst)
 print(type(lst))
 print(len(lst))
 print(id(lst))
+lst2 = [1,3,6,2]
